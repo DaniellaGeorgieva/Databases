@@ -102,7 +102,7 @@
 --ADD CONSTRAINT ck_booking_status
 --CHECK (STATUS IN (0,1));
 
-
+----data to be inserted
 --INSERT INTO AIRLINE
 --VALUES  ('AZ', 'Alitalia', 'Italy'),
 --		('BA', 'British Airways', 'United Kingdom'),
